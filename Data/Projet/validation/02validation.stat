@@ -1,0 +1,184 @@
+{
+    "particles": [
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 0,
+            "position": {
+                "x": 100.0,
+                "y": 200.0
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 1,
+            "position": {
+                "x": 150.0,
+                "y": 258.7527525713892
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 2,
+            "position": {
+                "x": 200.0,
+                "y": 295.085946050647
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 3,
+            "position": {
+                "x": 250.0,
+                "y": 295.1351376233829
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 4,
+            "position": {
+                "x": 300.0,
+                "y": 258.8815561967795
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 5,
+            "position": {
+                "x": 350.0,
+                "y": 200.1592652916487
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 6,
+            "position": {
+                "x": 400.0,
+                "y": 141.3762000829973
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 7,
+            "position": {
+                "x": 450.0,
+                "y": 104.96348671186237
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 8,
+            "position": {
+                "x": 500.0,
+                "y": 104.81591211843141
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 9,
+            "position": {
+                "x": 550.0,
+                "y": 140.98978953354245
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 10,
+            "position": {
+                "x": 600.0,
+                "y": 199.6814698206862
+            },
+            "radius": 15.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    50.0
+                ]
+            ],
+            "id": 11,
+            "position": {
+                "x": 650.0,
+                "y": 300.0
+            },
+            "radius": 40.0
+        }
+    ],
+    "robots": [
+        {
+            "angle": 0.0,
+            "captureAngle": 30.0,
+            "id": 0,
+            "leftSpeed": 0.0,
+            "position": {
+                "x": 25.0,
+                "y": 200.0
+            },
+            "radius": 20.0,
+            "rightSpeed": 0.0,
+            "score": 0.0
+        }
+    ],
+    "time": 0.0,
+    "worldEnd": {
+        "x": 700.0,
+        "y": 400.0
+    },
+    "worldOrigin": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}

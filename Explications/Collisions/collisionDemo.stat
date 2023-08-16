@@ -1,0 +1,93 @@
+{
+    "particles": [
+        {
+            "explosionTimes": [
+                [
+                    10.0
+                ]
+            ],
+            "id": 0,
+            "position": {
+                "x": 400.0,
+                "y": 300.0
+            },
+            "radius": 35.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    10.0
+                ]
+            ],
+            "id": 1,
+            "position": {
+                "x": 250.0,
+                "y": 400.0
+            },
+            "radius": 35.0
+        }
+    ],
+    "robots": [
+        {
+            "angle": 0.0,
+            "captureAngle": 45.0,
+            "id": 0,
+            "leftSpeed": 10.0,
+            "position": {
+                "x": 100.0,
+                "y": 100.0
+            },
+            "radius": 30.0,
+            "rightSpeed": 5.0,
+            "score": 0.0
+        },
+        {
+            "angle": 270.0,
+            "captureAngle": 45.0,
+            "id": 1,
+            "leftSpeed": 5.0,
+            "position": {
+                "x": 200.0,
+                "y": 200.0
+            },
+            "radius": 30.0,
+            "rightSpeed": 10.0,
+            "score": 0.0
+        },
+        {
+            "angle": 30.0,
+            "captureAngle": 45.0,
+            "id": 2,
+            "leftSpeed": 12.0,
+            "position": {
+                "x": 300.0,
+                "y": 300.0
+            },
+            "radius": 30.0,
+            "rightSpeed": 10.0,
+            "score": 0.0
+        },
+        {
+            "angle": 0.0,
+            "captureAngle": 45.0,
+            "id": 3,
+            "leftSpeed": 20.0,
+            "position": {
+                "x": 100.0,
+                "y": 400.0
+            },
+            "radius": 30.0,
+            "rightSpeed": 20.0,
+            "score": 0.0
+        }
+    ],
+    "time": 0.0,
+    "worldEnd": {
+        "x": 600.0,
+        "y": 500.0
+    },
+    "worldOrigin": {
+        "x": -100.0,
+        "y": 0.0
+    }
+}

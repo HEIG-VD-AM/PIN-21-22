@@ -1,0 +1,105 @@
+{
+    "particles": [
+        {
+            "explosionTimes": [
+                [
+                    25.0
+                ]
+            ],
+            "id": 0,
+            "position": {
+                "x": 200.0,
+                "y": 200.0
+            },
+            "radius": 20.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    25.0
+                ]
+            ],
+            "id": 1,
+            "position": {
+                "x": 400.0,
+                "y": 200.0
+            },
+            "radius": 20.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    25.0
+                ],
+                [
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0
+                ]
+            ],
+            "id": 2,
+            "position": {
+                "x": 300.0,
+                "y": 60.0
+            },
+            "radius": 20.0
+        },
+        {
+            "explosionTimes": [
+                [
+                    25.0
+                ],
+                [
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0
+                ]
+            ],
+            "id": 3,
+            "position": {
+                "x": 300.0,
+                "y": 360.0
+            },
+            "radius": 20.0
+        }
+    ],
+    "robots": [
+        {
+            "angle": 0.0,
+            "captureAngle": 30.0,
+            "id": 0,
+            "leftSpeed": 10.0,
+            "position": {
+                "x": 25.0,
+                "y": 200.0
+            },
+            "radius": 20.0,
+            "rightSpeed": 10.0,
+            "score": 0.0
+        },
+        {
+            "angle": 180.0,
+            "captureAngle": 30.0,
+            "id": 1,
+            "leftSpeed": 10.0,
+            "position": {
+                "x": 575.0,
+                "y": 200.0
+            },
+            "radius": 20.0,
+            "rightSpeed": 10.0,
+            "score": 0.0
+        }
+    ],
+    "time": 0.0,
+    "worldEnd": {
+        "x": 600.0,
+        "y": 400.0
+    },
+    "worldOrigin": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}

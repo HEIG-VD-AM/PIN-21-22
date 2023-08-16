@@ -1,0 +1,403 @@
+{
+    "states": [
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            10.0
+                        ]
+                    ],
+                    "id": 0,
+                    "position": {
+                        "x": 400.0,
+                        "y": 300.0
+                    },
+                    "radius": 35.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            10.0
+                        ]
+                    ],
+                    "id": 1,
+                    "position": {
+                        "x": 250.0,
+                        "y": 400.0
+                    },
+                    "radius": 35.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 0.0,
+                    "captureAngle": 45.0,
+                    "id": 0,
+                    "leftSpeed": 10.0,
+                    "position": {
+                        "x": 100.0,
+                        "y": 100.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 5.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 270.0,
+                    "captureAngle": 45.0,
+                    "id": 1,
+                    "leftSpeed": 5.0,
+                    "position": {
+                        "x": 200.0,
+                        "y": 200.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 10.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 30.0,
+                    "captureAngle": 45.0,
+                    "id": 2,
+                    "leftSpeed": 12.0,
+                    "position": {
+                        "x": 300.0,
+                        "y": 300.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 10.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 0.0,
+                    "captureAngle": 45.0,
+                    "id": 3,
+                    "leftSpeed": 20.0,
+                    "position": {
+                        "x": 100.0,
+                        "y": 400.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 20.0,
+                    "score": 0.0
+                }
+            ],
+            "time": 0.0,
+            "worldEnd": {
+                "x": 600.0,
+                "y": 500.0
+            },
+            "worldOrigin": {
+                "x": -100.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            10.0
+                        ]
+                    ],
+                    "id": 0,
+                    "position": {
+                        "x": 400.0,
+                        "y": 300.0
+                    },
+                    "radius": 35.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 20.29225524421661,
+                    "captureAngle": 45.0,
+                    "id": 0,
+                    "leftSpeed": 10.0,
+                    "position": {
+                        "x": 131.21279853050007,
+                        "y": 105.58577603333421
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 5.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 249.70774475578338,
+                    "captureAngle": 45.0,
+                    "id": 1,
+                    "leftSpeed": 5.0,
+                    "position": {
+                        "x": 194.4142239666658,
+                        "y": 168.78720146949993
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 10.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 38.11690209768664,
+                    "captureAngle": 45.0,
+                    "id": 2,
+                    "leftSpeed": 12.0,
+                    "position": {
+                        "x": 338.6984373469811,
+                        "y": 326.1599051837688
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 10.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 0.0,
+                    "captureAngle": 45.0,
+                    "id": 3,
+                    "leftSpeed": 20.0,
+                    "position": {
+                        "x": 184.9999999999998,
+                        "y": 400.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 20.0,
+                    "score": 3848.4510006474966
+                }
+            ],
+            "time": 4.24999999999999,
+            "worldEnd": {
+                "x": 600.0,
+                "y": 500.0
+            },
+            "worldOrigin": {
+                "x": -100.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            10.0
+                        ]
+                    ],
+                    "id": 0,
+                    "position": {
+                        "x": 400.0,
+                        "y": 300.0
+                    },
+                    "radius": 35.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 21.866520410916703,
+                    "captureAngle": 45.0,
+                    "id": 0,
+                    "leftSpeed": 10.0,
+                    "position": {
+                        "x": 133.5201001518192,
+                        "y": 106.47513612215816
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 5.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 248.1334795890833,
+                    "captureAngle": 45.0,
+                    "id": 1,
+                    "leftSpeed": 5.0,
+                    "position": {
+                        "x": 193.52486387784185,
+                        "y": 166.4798998481808
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 10.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 38.74660816436668,
+                    "captureAngle": 45.0,
+                    "id": 2,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 341.5395099702548,
+                        "y": 328.4142765068558
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 0.0,
+                    "captureAngle": 45.0,
+                    "id": 3,
+                    "leftSpeed": 20.0,
+                    "position": {
+                        "x": 191.59426651000956,
+                        "y": 400.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 20.0,
+                    "score": 3848.4510006474966
+                }
+            ],
+            "time": 4.579713325500479,
+            "worldEnd": {
+                "x": 600.0,
+                "y": 500.0
+            },
+            "worldOrigin": {
+                "x": -100.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            10.0
+                        ]
+                    ],
+                    "id": 0,
+                    "position": {
+                        "x": 400.0,
+                        "y": 300.0
+                    },
+                    "radius": 35.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 30.240285113977883,
+                    "captureAngle": 45.0,
+                    "id": 0,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 145.32647505993384,
+                        "y": 112.24711800427464
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 239.75971488602212,
+                    "captureAngle": 45.0,
+                    "id": 1,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 187.75288199572537,
+                        "y": 154.67352494006616
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 38.74660816436668,
+                    "captureAngle": 45.0,
+                    "id": 2,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 341.5395099702548,
+                        "y": 328.4142765068558
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 0.0,
+                    "captureAngle": 45.0,
+                    "id": 3,
+                    "leftSpeed": 20.0,
+                    "position": {
+                        "x": 226.67021007537824,
+                        "y": 400.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 20.0,
+                    "score": 3848.4510006474966
+                }
+            ],
+            "time": 6.333510503768913,
+            "worldEnd": {
+                "x": 600.0,
+                "y": 500.0
+            },
+            "worldOrigin": {
+                "x": -100.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [],
+            "robots": [
+                {
+                    "angle": 30.240285113977883,
+                    "captureAngle": 45.0,
+                    "id": 0,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 145.32647505993384,
+                        "y": 112.24711800427464
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 239.75971488602212,
+                    "captureAngle": 45.0,
+                    "id": 1,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 187.75288199572537,
+                        "y": 154.67352494006616
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 38.74660816436668,
+                    "captureAngle": 45.0,
+                    "id": 2,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 341.5395099702548,
+                        "y": 328.4142765068558
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                },
+                {
+                    "angle": 0.0,
+                    "captureAngle": 45.0,
+                    "id": 3,
+                    "leftSpeed": 20.0,
+                    "position": {
+                        "x": 300.0,
+                        "y": 400.0
+                    },
+                    "radius": 30.0,
+                    "rightSpeed": 20.0,
+                    "score": 3848.4510006474966
+                }
+            ],
+            "time": 10.0,
+            "worldEnd": {
+                "x": 600.0,
+                "y": 500.0
+            },
+            "worldOrigin": {
+                "x": -100.0,
+                "y": 0.0
+            }
+        }
+    ]
+}
